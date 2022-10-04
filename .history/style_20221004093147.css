@@ -1,9 +1,17 @@
+body {
+    margin: 0%;
+    padding: 0%;
+    background: #F4F4F4;
+}
+
+
 .search-bar {
     width: 100%;
     max-width: 400px;
     height: 40px;
     background: #F1F1F1;
     border-radius: 66px;
+
 
 }
 
@@ -25,11 +33,14 @@
     background: transparent;
     border: 0;
     outline: none;
+
+
 }
 
 .search-bar button img {
     width: 25px;
     color: #CCCCCC;
+
 }
 
 div#navbarSupportedContent {
@@ -85,27 +96,4 @@ div#navbarSupportedContent {
 
 .categories img {
     width: 40%;
-}
-
-.show-bg {
-    background: #F4F4F4;
-}
-
-.show-header-text {
-    justify-content: space-between;
-    align-items: center;
-    text-align: center;
-}
-
-.show-header-text p {
-    color: #FF9D00;
-}
-
-.show-bg button {
-    background: #000000;
-    border-radius: 6px;
-}
-
-.footer-section {
-    background: #FFF2F1;
 }

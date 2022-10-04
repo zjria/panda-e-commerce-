@@ -97,15 +97,6 @@ div#navbarSupportedContent {
     text-align: center;
 }
 
-.show-header-text p {
+.show-header-text {
     color: #FF9D00;
-}
-
-.show-bg button {
-    background: #000000;
-    border-radius: 6px;
-}
-
-.footer-section {
-    background: #FFF2F1;
 }

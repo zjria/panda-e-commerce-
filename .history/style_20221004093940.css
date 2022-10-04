@@ -90,22 +90,3 @@ div#navbarSupportedContent {
 .show-bg {
     background: #F4F4F4;
 }
-
-.show-header-text {
-    justify-content: space-between;
-    align-items: center;
-    text-align: center;
-}
-
-.show-header-text p {
-    color: #FF9D00;
-}
-
-.show-bg button {
-    background: #000000;
-    border-radius: 6px;
-}
-
-.footer-section {
-    background: #FFF2F1;
-}

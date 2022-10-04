@@ -101,11 +101,4 @@ div#navbarSupportedContent {
     color: #FF9D00;
 }
 
-.show-bg button {
-    background: #000000;
-    border-radius: 6px;
-}
-
-.footer-section {
-    background: #FFF2F1;
-}
+.show-bg button {}
