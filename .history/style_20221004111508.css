@@ -112,7 +112,6 @@ div#navbarSupportedContent {
 
 .footer-text {
     text-align: center;
-    padding: 5%;
 }
 
 .form-box input {
@@ -138,6 +137,4 @@ div#navbarSupportedContent {
 
 .form-box button {
     background: linear-gradient(180deg, #FF589B 0%, #FF136F 100%);
-    color: white;
-    font-size: 700;
 }

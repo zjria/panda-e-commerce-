@@ -110,34 +110,7 @@ div#navbarSupportedContent {
     background: #FFF2F1;
 }
 
-.footer-text {
-    text-align: center;
-    padding: 5%;
-}
-
 .form-box input {
     outline: none;
     border: none;
-    font-size: 18px;
-    background: white;
-    padding: 10px;
-    border-radius: 5px;
-    margin: -5px;
-    width: 60%;
-}
-
-.form-box button {
-    border-radius: 0px 5px 5px 0px;
-    outline: none;
-    border: none;
-    font-size: 18px;
-    background: white;
-    padding: 10px;
-    margin: -5px;
-}
-
-.form-box button {
-    background: linear-gradient(180deg, #FF589B 0%, #FF136F 100%);
-    color: white;
-    font-size: 700;
 }
