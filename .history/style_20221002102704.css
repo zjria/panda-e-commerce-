@@ -1,0 +1,6 @@
+.search-style input,
+button {
+    border: 0;
+    outline: none;
+    flex: 1;
+}

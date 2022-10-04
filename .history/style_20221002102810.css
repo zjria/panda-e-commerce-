@@ -1,0 +1,7 @@
+.search-style input,
+button {
+    border: 0;
+    outline: none;
+    background: #F1F1F1;
+    border-radius: 66px;
+}

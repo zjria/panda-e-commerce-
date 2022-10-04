@@ -1,0 +1,47 @@
+.search-bar {
+    width: 100%;
+    max-width: 400px;
+    height: 40px;
+    background: #F1F1F1;
+    border-radius: 66px;
+
+
+}
+
+.search-bar input {
+    background: transparent;
+    flex: 1;
+    border: 0;
+    outline: none;
+    padding: 12px 20px;
+    font-size: 20px;
+
+}
+
+::placeholder {
+    color: #CCCCCC;
+}
+
+.search-bar button {
+    background: transparent;
+    border: 0;
+    outline: none;
+
+
+}
+
+.search-bar button img {
+    width: 25px;
+    color: #CCCCCC;
+
+}
+
+div#navbarSupportedContent {
+    margin-top: -20px;
+    text-align: end;
+    justify-content: end;
+}
+
+.slide-bg-color {
+    background: #FEEAE9;
+}
